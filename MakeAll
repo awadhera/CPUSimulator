@@ -1,0 +1,3 @@
+g++ src/SSS_Infinite.cpp -o bin/SSS_Infinite
+g++ src/SSS_LWindow.cpp -o bin/SSS_LWindow
+g++ src/SSS_LWinExe.cpp -o bin/SSS_LWinExe
